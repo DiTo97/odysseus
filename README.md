@@ -10,10 +10,12 @@ Follow these instructions to try out our code.
 
 ### Data
 
-Data for the municipality of Louisville is available for download [here](https://mega.nz/file/fNQFiYBQ#RoWBIreahyKmthdB0mo4z8Sfsou-MjGQhbyEv4OL_lQ) on MEGA.
+Aggregated data for the municipality of Louisville are freely available for download [here](https://data.louisvilleky.gov/dataset/dockless-vehicles) under a not specified license. In order to run our experiments, we disaggregated those data following the method proposed [here](https://ieeexplore.ieee.org/document/9213514).
+
+Disaggregated data for the municipality of Louisville are available for download [here](https://mega.nz/file/fNQFiYBQ#RoWBIreahyKmthdB0mo4z8Sfsou-MjGQhbyEv4OL_lQ) on MEGA.
 - Unzip the folder and put its contents within `odysseus\city_data_manager\data`.
 
-Demand model of Louisville is available for download likewise [here](https://mega.nz/file/eRR3AShS#WE3tnhpSpvDJskHn-jXHNxMXcXqGNLmBrB-mb6TVgL4) on MEGA.
+Disaggregated demand model of Louisville are available for download likewise [here](https://mega.nz/file/eRR3AShS#WE3tnhpSpvDJskHn-jXHNxMXcXqGNLmBrB-mb6TVgL4) on MEGA.
 - Unzip the folder and put its contents within `odysseus\demand_modelling\demand_models`.
 
 Data and demand model for the municipality of Austin are available upon request.
